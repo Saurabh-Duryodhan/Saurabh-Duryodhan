@@ -1,7 +1,12 @@
-- 👋 Hi, I’m @Saurabh-Duryodhan
-- 👀 I’m Web Developer
-- 🌱 I’m currently MERN Stack Developer🖥💻⌨🖱
-<!---
-Saurabh-Duryodhan/Saurabh-Duryodhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Passionate about building innovative web applications using the MERN stack. 
+Full-stack developer with expertise in MongoDB, Express.js, React.js, Node.js 
+additionally had working on Angular10, NestJs, MySQL, MsSQL, TypeORM, KnexJS QueryBuilder and Something more technologies. 
+Constantly exploring new technologies and techniques to deliver efficient and scalable solutions. 
+Let's collaborate and create something awesome together! 
+
+💻🚀 #MERNstack #FullStack #Developer"
+
+
+
+
+
