@@ -4,7 +4,7 @@ additionally had working on Angular10, NestJs, MySQL, MsSQL, TypeORM, KnexJS Que
 Constantly exploring new technologies and techniques to deliver efficient and scalable solutions. 
 Let's collaborate and create something awesome together! 
 
-💻🚀 #MERNstack #FullStack #Developer"
+💻🚀 #MERNstack #FullStack #Developer
 
 
 
